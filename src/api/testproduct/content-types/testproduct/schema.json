@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "testproducts",
+  "info": {
+    "singularName": "testproduct",
+    "pluralName": "testproducts",
+    "displayName": "testproducts"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "testingnowwwwwww": {
+      "type": "string"
+    }
+  }
+}
